@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Hajar Ismail 👋 👩‍💻
 
-<!--
-**hm503/hm503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student @ BATU | Flutter & Frontend Developer
 
-Here are some ideas to get you started:
+I am a passionate developer dedicated to creating seamless and innovative mobile and web experiences. Currently focusing on mastering Flutter and modern Frontend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Tools
+- **Languages:** Dart, JavaScript, HTML5, CSS3
+- **Frameworks:** Flutter (Mobile), Responsive Web Design
+- **Tools:** Git, GitHub, VS Code, Android Studio
+- **Design:** UI/UX Principles
+
+---
+
+### 📊 GitHub Stats
+![Hajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hm503&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hm503&layout=compact&theme=tokyonight)
+
+---
+
+### 🤝 Connect with me
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eng-hagarismail)
